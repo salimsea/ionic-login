@@ -1,0 +1,7 @@
+{
+  "name": "belajar-sesi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
